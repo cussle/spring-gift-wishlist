@@ -19,7 +19,7 @@
 <br>
 
 <details>
-<summary>1단계 요구사항 자세히 보기</summary>
+<summary>2단계 요구사항 자세히 보기</summary>
 
 ## 🚀 2단계 - 회원 로그인
 
